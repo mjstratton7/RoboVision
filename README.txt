@@ -14,3 +14,4 @@ Once that is complete a fire command is sent to the arduino, which causes a dart
 
 This project implements Native C code and uses JNI objects to communicate with a Java layer (the UI which the user sees, and the android ADK for communicating with the Arduino.
 
+This requires android 4.1, and has been confirmed to work on a HTC One M7, HTC One M8, and the preferred device is a Samsung Galaxy Canmera 1/2
